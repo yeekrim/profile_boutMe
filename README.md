@@ -3,4 +3,4 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=yeekrim&show_icons=true"/></a>
 </p>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=kr031106">(https://acmicpc.net/kr031106)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yeekrim)](https://solved.ac/kr031106)
